@@ -1,1 +1,1 @@
-# Fire-and-Smoke-Detection-System
+Implementation of a Fire and Smoke Detection System Using Computer Vision and Deep Learning in the Tafoghalt Forest, Berkane, followed by the development of an alert system. The workflow involved collecting, annotating, and preprocessing data, including images and videos of fire and smoke, with data augmentation to enhance model robustness. A YOLOv8 model was trained for real-time fire and smoke detection, and an alert system was developed using Python, OpenCV, and Google Colab.
